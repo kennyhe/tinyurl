@@ -14,3 +14,4 @@ Author: Kenny He (he.scu2013@gmail.com)
   - Add rate limiter for the tiny URL creation. (do not allow user create too many tiny URLs from a single client IP to avoid attack)
   - Distributed system. Multiple server support + consistent hash + load balancer
 
+Project start date: 6/27/2016, just for fun.
