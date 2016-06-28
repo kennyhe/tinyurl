@@ -1,6 +1,8 @@
 # tinyurl
 A simple tinyurl implementation based on SpringBoot starter.
 
+Author: Kenny He (he.scu2013@gmail.com)
+
 ## Currently it supports the following features:
   - A standalone web server.
   - Support HTTP POST to create a tiny URL for a long URL.
